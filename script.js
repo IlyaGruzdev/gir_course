@@ -1,0 +1,1 @@
+document.body.innerHTML='<div><h2>Hello!!! I am js</h2></div>'
